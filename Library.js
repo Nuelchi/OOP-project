@@ -93,7 +93,7 @@ class Library{
 
 //METHOD TO DISPLAY ALL BOOKS IN LIBRARY   
     displayAvailableBooks(){
-        console.log("Available Books:");
+        console.log("----AVAILABLE BOOKS----");
 
         this.books.forEach(book => {
             if(!book.borrowedBy){
