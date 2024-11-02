@@ -146,6 +146,7 @@ console.log("----ADDING PRODUCTS TO THE CATALOGUE---")
   
 
 // Displaying all products in the catalog
+console.log("----DISPLAYING PRODUCT DETAILS----")
   catalog.displayCatalog(); 
 
 // Removing a product named "long-sleeve" from catalog
